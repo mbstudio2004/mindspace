@@ -1,0 +1,20 @@
+{
+    "name": "MonadGames.Extensions.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:63652586ff631ba43a9baf061d13df7c",
+        "FMODUnity",
+        "FMODUnityEditor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

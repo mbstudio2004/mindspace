@@ -1,0 +1,19 @@
+{
+  "name": "Nocci.Character",
+  "rootNamespace": "Nocci.Character",
+  "references": [
+    "GUID:7c88a4a7926ee5145ad2dfa06f454c67",
+    "GUID:63652586ff631ba43a9baf061d13df7c",
+    "GUID:684b49bb61fe95547b057184563c00de",
+    "GUID:7a5887d0cb23f8041a59a7e389bb0b78"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

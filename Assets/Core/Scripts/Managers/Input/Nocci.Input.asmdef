@@ -1,0 +1,18 @@
+{
+    "name": "Nocci.Input",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a461c24fff1fb1149a08a2e23be4e022",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:63652586ff631ba43a9baf061d13df7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

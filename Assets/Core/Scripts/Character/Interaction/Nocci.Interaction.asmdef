@@ -1,0 +1,23 @@
+{
+    "name": "Nocci.Interaction",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1058210ce84f5b8478bc6dccbe503420",
+        "GUID:63652586ff631ba43a9baf061d13df7c",
+        "GUID:3fe3e077082e2ea4381276971806afd5",
+        "GUID:a461c24fff1fb1149a08a2e23be4e022",
+        "GUID:675bf65d5fc30014ebd693696749b414",
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:684b49bb61fe95547b057184563c00de",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

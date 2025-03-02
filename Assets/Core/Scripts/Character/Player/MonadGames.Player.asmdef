@@ -1,0 +1,30 @@
+{
+    "name": "MonadGames.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7c88a4a7926ee5145ad2dfa06f454c67",
+        "GUID:1058210ce84f5b8478bc6dccbe503420",
+        "GUID:684b49bb61fe95547b057184563c00de",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:63652586ff631ba43a9baf061d13df7c",
+        "GUID:7a5887d0cb23f8041a59a7e389bb0b78",
+        "GUID:912f23f6cd64e1446bf47fda3966457a",
+        "GUID:2ab215dd63d97ee49bff304d783928e2",
+        "GUID:0c752da273b17c547ae705acf0f2adf2",
+        "GUID:a461c24fff1fb1149a08a2e23be4e022",
+        "GUID:3fe3e077082e2ea4381276971806afd5",
+        "GUID:daf93e7bf06f3154fbe800d462414d0a",
+        "GUID:675bf65d5fc30014ebd693696749b414",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8d2717d6e3e0f174c983290a3fe3eff4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

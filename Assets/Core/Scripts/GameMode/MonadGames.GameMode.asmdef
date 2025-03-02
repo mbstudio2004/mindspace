@@ -1,0 +1,22 @@
+{
+    "name": "MonadGames.GameMode",
+    "rootNamespace": "MonadGames.GameMode",
+    "references": [
+        "GUID:938ed692c9395b34bac08b4cd10a609e",
+        "GUID:7c88a4a7926ee5145ad2dfa06f454c67",
+        "GUID:63652586ff631ba43a9baf061d13df7c",
+        "GUID:64c10710cdb17f848a49a6b7235d5c17",
+        "GUID:95579c869f8672e44b670c88ad6dad4a",
+        "GUID:1058210ce84f5b8478bc6dccbe503420",
+        "GUID:70d894d4c8290bd4ba77055f878dd90c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

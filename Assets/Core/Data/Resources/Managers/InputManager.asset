@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d7585751f683da438f0191754d64004, type: 3}
+  m_Name: InputManager
+  m_EditorClassIdentifier: 
+  m_DefaultContext: {fileID: 11400000, guid: 45d57684865a2504aa4d0bbde9c2a1fa, type: 2}
+  m_EscapeInput: {fileID: 285021350565016437, guid: 5eb230127cba5ef478d746bb2955c7cf,
+    type: 3}
